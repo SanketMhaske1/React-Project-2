@@ -1,0 +1,19 @@
+.Hero{
+    padding: 30px 180px;
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+    padding: 20px 30px;
+}
+
+.Heading{
+    border: 5px dashed rgb(9, 9, 67);
+    border-radius: 10px;
+    margin-bottom: 50px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
